@@ -221,7 +221,6 @@ const App: React.FC = () => {
                 showToast={showToast}
             />
              <EcommerceModal
-                // Fix: Corrected typo from `ecommerceModal-product` to `ecommerceModalProduct`.
                 isOpen={!!ecommerceModalProduct}
                 product={ecommerceModalProduct}
                 onClose={() => setEcommerceModalProduct(null)}

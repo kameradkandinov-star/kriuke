@@ -1,0 +1,5 @@
+{
+  "name": "Kriuké Snack Store",
+  "description": "A modern PWA e-commerce application for a snack store, built with React and Tailwind CSS. It features product browsing, a shopping cart, favorites, and an admin dashboard for managing products, categories, and promotions.",
+  "requestFramePermissions": []
+}
